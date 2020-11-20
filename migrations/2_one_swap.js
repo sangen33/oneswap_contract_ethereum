@@ -6,7 +6,7 @@ const Router = artifacts.require("OneSwapRouter");
 const Buyback = artifacts.require("OneSwapBuyback");
 const LockSend = artifacts.require("LockSend");
 
-let ownerAddr = '0xee71C9C50eF8D692c8EE553A1ba130e43eDF3a17';
+let ownerAddr = '0xF507728d3fA5A58c1ce39E044A41fB959f9F8f34';
 let onesAmount = 100000000 * 1000000000000000000;
 let onesDec = 18;
 
